@@ -3,11 +3,17 @@
 
 
 
-## :book: How it works
+## :book: How to use
+- Download the script:
 
-* git clone https://github.com/ekovegeance/debootstrap.git
-* cd debootstrap
+```
+$ git clone https://github.com/ekovegeance/debootstrap.git
+```
+- read
 
+```
+$ cd debootstrap
+```
 
 
 
