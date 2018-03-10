@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## debootstrap
+[![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)](https://travis-ci.org/pages-themes/leap-day) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 You can use the [editor on GitHub](https://github.com/ekovegeance/debootstrap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](evsystemsite.wordpress.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
