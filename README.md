@@ -1,38 +1,37 @@
 ## debootstrap
 [![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)](https://travis-ci.org/pages-themes/leap-day) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
-You can use the [editor on GitHub](https://github.com/ekovegeance/debootstrap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## :book: How it works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* git clone https://github.com/ekovegeance/debootstrap.git
+* cd debootstrap
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Donations
 
-**Bold** and _Italic_ and `Code` text
+- Address bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
+- Address dogecoin   : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
 
-[Link](evsystemsite.wordpress.com) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
+## :octocat: Contact
+- Website : https://evsystemsite.wordpress.com/
+- Facebook : https://web.facebook.com/eko.vegeance.1
+- Twitter : https://twitter.com/ekovegeance7
+- Telegram : https://t.me/evsystemsite
+- Google+ : https://plus.google.com/117233958552972040322?hl=id
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ekovegeance/debootstrap/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## : Partner
+- Xenta OS : http://www.xentaos.org/
+- IndoXploit : https://www.indoxploit.or.id/
+- dracOs Linux : https://dracos-linux.org/
 
-### Support or Contact
+## Disclaimer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( evsystem ).***
+
